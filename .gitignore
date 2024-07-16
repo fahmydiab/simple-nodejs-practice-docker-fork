@@ -1,1 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
 
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+lib/
+vendor/
+
+# Optional npm cache directory
+.npm
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.vscode/
+
+# Environment variables
+.env
+
+# Jest testing framework
+coverage/
+
+# End of https://www.gitignore.io/api/node
+
+# Ignore .eslintcache
+.eslintcache
